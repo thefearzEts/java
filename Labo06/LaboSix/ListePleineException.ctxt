@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=ListePleineException
+comment0.text=\r\n\ Exception\ levee\ lorsqu'on\ tente\ d'inserer\ un\ element\ dans\ une\ liste\r\n\ et\ que\ celle-ci\ est\ pleine.\r\n\ \r\n\ @author\ Melanie\ Lord\r\n\ @version\ A2018\r\n
+numComments=1

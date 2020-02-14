@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=ListeVideException
+comment0.text=\r\n\ Exception\ levee\ lorsque\ qu'une\ liste\ est\ vide\ et\ qu'une\ operation\ \r\n\ necessitant\ qu'il\ y\ ait\ au\ moins\ un\ element\ dans\ cette\ liste\ tente\ \r\n\ d'etre\ executee.\r\n\ \r\n\ @author\ Melanie\ Lord\r\n\ @version\ A2018\r\n
+numComments=1

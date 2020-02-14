@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestsListePosCourante
+comment0.text=\r\n\ Classe\ de\ tests\ pour\ les\ services\ d'une\ ListePosCouranteTableau\r\n\ \r\n\ @author\ Melanie\ Lord\r\n\ @version\ A2018\r\n
+comment1.params=liste
+comment1.target=void\ afficher(ListePosCouranteTableau)
+comment1.text=\r\n\ Affiche\ la\ liste\ donnee.\r\n\ @param\ liste\ la\ liste\ a\ afficher\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
